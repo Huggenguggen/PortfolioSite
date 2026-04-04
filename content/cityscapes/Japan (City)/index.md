@@ -1,13 +1,13 @@
 ---
 description: This is the "Japan Cityscapes". People in Places, or just places
 keywords: [Japan, Photos]
-categories: ["Japan"]
-title: Japan
+categories: ["Cityscapes"]
+title: Japan (Cityscapes)
 weight: 1
-menus: "main"
+# menus: "main"
 # list pages require at least one image to be displayed.
 resources:
-  - src: janis-ringli-UC1pzyJFyvs-unsplash.jpg
+  - src: feature.jpg
     params:
       cover: true
 ---
