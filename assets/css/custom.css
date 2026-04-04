@@ -1,0 +1,10 @@
+/* Change the background of the entire page */
+body {
+    background-color: #0a192f; /* Replace with your HEX or RGB color */
+}
+
+/* You may also need to target the main container for dark/light consistency */
+.theme-dark {
+    background-color: #0a192f;
+}
+
